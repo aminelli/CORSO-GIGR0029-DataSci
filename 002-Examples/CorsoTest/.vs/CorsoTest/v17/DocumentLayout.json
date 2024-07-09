@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|d:\\corsi\\aule\\opened\\gigr0029-datasci-jakala\\esempics\\corso-gigr0029-datasci\\002-examples\\corsotest\\consolea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|solutionrelative:consolea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|d:\\corsi\\aule\\opened\\gigr0029-datasci-jakala\\esempics\\corso-gigr0029-datasci\\002-examples\\corsotest\\consolea\\register\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|solutionrelative:consolea\\register\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|d:\\corsi\\aule\\opened\\gigr0029-datasci-jakala\\esempics\\corso-gigr0029-datasci\\002-examples\\corsotest\\consolea\\consolea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|solutionrelative:consolea\\consolea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|d:\\corsi\\aule\\opened\\gigr0029-datasci-jakala\\esempics\\corso-gigr0029-datasci\\002-examples\\corsotest\\consolea\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07019C85-23B6-48CF-9CA9-8CDAB5D8A917}|ConsoleA\\ConsoleA.csproj|solutionrelative:consolea\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleA",
+              "DocumentMoniker": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\ConsoleA.csproj",
+              "RelativeDocumentMoniker": "ConsoleA\\ConsoleA.csproj",
+              "ToolTip": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\ConsoleA.csproj",
+              "RelativeToolTip": "ConsoleA\\ConsoleA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T15:08:37.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Register\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleA\\Register\\Person.cs",
+              "ToolTip": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Register\\Person.cs",
+              "RelativeToolTip": "ConsoleA\\Register\\Person.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:09:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleA\\Car.cs",
+              "ToolTip": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Car.cs",
+              "RelativeToolTip": "ConsoleA\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:24:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleA\\Program.cs",
+              "ToolTip": "D:\\Corsi\\Aule\\Opened\\GIGR0029-DataSci-JAKALA\\EsempiCS\\CORSO-GIGR0029-DataSci\\002-Examples\\CorsoTest\\ConsoleA\\Program.cs",
+              "RelativeToolTip": "ConsoleA\\Program.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAQwKwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:10:52.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
