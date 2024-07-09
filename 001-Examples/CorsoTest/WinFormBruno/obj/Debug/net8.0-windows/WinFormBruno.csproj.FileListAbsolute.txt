@@ -1,0 +1,17 @@
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\bin\Debug\net8.0-windows\WinFormBruno.exe
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\bin\Debug\net8.0-windows\WinFormBruno.deps.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\bin\Debug\net8.0-windows\WinFormBruno.runtimeconfig.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\bin\Debug\net8.0-windows\WinFormBruno.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\bin\Debug\net8.0-windows\WinFormBruno.pdb
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.Form1.resources
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.csproj.GenerateResource.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.AssemblyInfoInputs.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.AssemblyInfo.cs
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.csproj.CoreCompileInputs.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.sourcelink.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\refint\WinFormBruno.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.pdb
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\WinFormBruno.genruntimeconfig.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\WinFormBruno\obj\Debug\net8.0-windows\ref\WinFormBruno.dll

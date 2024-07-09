@@ -1,0 +1,15 @@
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\bin\Debug\net8.0\ConsoleFirst.exe
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\bin\Debug\net8.0\ConsoleFirst.deps.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\bin\Debug\net8.0\ConsoleFirst.runtimeconfig.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\bin\Debug\net8.0\ConsoleFirst.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\bin\Debug\net8.0\ConsoleFirst.pdb
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.AssemblyInfoInputs.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.AssemblyInfo.cs
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.csproj.CoreCompileInputs.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.sourcelink.json
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\refint\ConsoleFirst.dll
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.pdb
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ConsoleFirst.genruntimeconfig.cache
+D:\Corsi\Aule\Opened\GIGR0029-DataSci-JAKALA\EsempiCS\CORSO-GIGR0029-DataSci\001-Examples\CorsoTest\ConsoleFirst\obj\Debug\net8.0\ref\ConsoleFirst.dll
